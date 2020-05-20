@@ -8,6 +8,8 @@ int main (void) {
     cout << "Enter a new value for i:" << endl;
     cin >> i;
     cout << "The value entered is: " << i << endl;
+    cout << "Double the value  is: " << 2 * i << endl;
+    cout << "Triple the value  is: " << 3 * i << endl;
 
     return (0);
 }
