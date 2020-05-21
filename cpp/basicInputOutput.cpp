@@ -1,8 +1,11 @@
+// Copyright 2020 Magellan
 #include <iostream>
 
-using namespace std;
+using std::cout;
+using std::cin;
+using std::endl;
 
-int main (void) {
+int main(void) {
     int i{5};
     cout << "Value of i: " << i << endl;
     cout << "Enter a new value for i:" << endl;
