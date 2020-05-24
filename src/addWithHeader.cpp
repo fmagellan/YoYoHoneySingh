@@ -1,6 +1,6 @@
 // Copyright 2020 Magellan
 #include <iostream>
-#include "headers/add.h"
+#include "cpp/add.h"
 
 using std::cout;
 using std::cin;
