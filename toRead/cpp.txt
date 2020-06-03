@@ -1,1 +1,2 @@
-1. Checkout the difference between constexpr in c++11,c++14 and "inline constexpr" in c++17
+1. Checkout the difference between constexpr in c++11,c++14 and "inline constexpr" in c++17.
+2. Arrays in structs and classes don’t decay.
