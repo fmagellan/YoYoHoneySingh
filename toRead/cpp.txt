@@ -1,2 +1,7 @@
 1. Checkout the difference between constexpr in c++11,c++14 and "inline constexpr" in c++17.
-2. Arrays in structs and classes don’t decay.
+2. Arrays in structs and classes don’t decay. why not ?
+3. Learn about explicit-constructors.
+4. Study Pseudo Random number Generators, and MT PRG as well.
+5. Study std::chrono
+6. Solve chapter6 questions.
+7. Solve chapter8_4 question.
